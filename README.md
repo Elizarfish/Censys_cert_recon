@@ -1,4 +1,4 @@
-# Censys-cert-recon
+# Censys cert recon
 ## Installation
 
 ```
