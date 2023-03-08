@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ## Usage:
 
-`python3 script.py -d example.com`
+`python3 certs.py -d example.com`
 
 ## Censys install
 ```
